@@ -124,3 +124,8 @@ nb-configuration.xml
 
 /results/
 /phpunit*.xml
+
+#-------------------------
+# Outros
+#-------------------------
+help*.md
